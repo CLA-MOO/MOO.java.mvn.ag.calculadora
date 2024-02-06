@@ -1,4 +1,4 @@
-# Proyecto - Java Calculadora con Pruebas para Autograding - Maven
+# Proyecto (Maven) - Java Calculadora con Pruebas para Autograding
 
 ## Descripción del Problema
 
