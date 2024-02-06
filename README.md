@@ -1,6 +1,24 @@
 # Proyecto - Java Calculadora con Pruebas para Autograding - Maven
 
-Plantilla básica para proyecto de Java con Autograding usando Maven
+## Descripción del Problema
+
+Este ejercicio implementa una calculadora aritmética simple (suma, resta, multiplica, divide).
+
+## Ejecución
+
+Tu programa debería ejecutarse de la siguiente manera:
+
+```
+Calculadora aritmetica
+======================
+Introduce el primer operando:12
+Introduce el segundo operando:4
+12+4=16
+12-4=8
+12*4=48
+12/4=3
+```
+
 
 # Diagrama de clases
 [Editor en línea](https://mermaid.live/)
