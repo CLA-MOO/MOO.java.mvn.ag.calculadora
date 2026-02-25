@@ -28,6 +28,32 @@ classDiagram
 El repositorio está configurado para crear Diagramas de clases UML con ```draw.io```. Para usarlo simplemente das doble clic en el archivo  ```uml.class.drawio.png``` y se activará el editor ```draw.io``` incrustado en ```VSCode``` para edición. Asegúrate de agregar las formas UML en el menú de formas del lado izquierdo (opción ```+Más formas```). Al final insertas el archivo ```uml.class.drawio.png``` en apartado de UML de este archivo README.
 
 Para más información consulta el [MarketPlace](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio).
+
+## Versión de Java
+
+Verifica que tengas la versión adecuada de Java para trabajar con Maven. En caso de requerir una versión especial, usa los siguientes comandos.
+
+### Verificar versión actual
+```
+java --version
+```
+### Verificar versiones disponibles para instalar
+```
+sdk list java
+```
+### Instalar la última versión
+```
+sdk install java
+```
+### Instalar una versión específica
+```
+sdk install java xxx-version
+```
+Ejemplo:
+```
+sdk install java 17.0.18-ms
+```
+
 ## Uso del proyecto con Maven
 
 ### Compilar
